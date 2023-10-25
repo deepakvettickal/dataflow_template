@@ -1,0 +1,7 @@
+datetime
+pandas>=1.5.0
+google-cloud
+google-cloud-bigquery
+google-cloud-storage
+pyarrow
+apache-beam[gcp]==2.48.0

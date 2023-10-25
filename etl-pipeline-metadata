@@ -1,0 +1,5 @@
+{
+    "description": "pipeline to read data from a bigquery table, process it and push it to another bigquery table",
+    "name": "etl-pipeline",
+    "parameters": []
+}
